@@ -1,9 +1,5 @@
-### Hi there 👋
 
 
-
-- 🔭 I’m currently working on [C++ Backend based Calculator](https://github.com/isri12/calculator_web_app_Cpp_Backend_based)
-- 🌱 I’m currently brushing up on Data Structures and Algorithm learning 
 <!--
 **isri12/isri12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +13,10 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm isri12</h1>
+<h1 align="center">Hi there 👋, I'm isri12</h1>
 <h3 align="center">A passionate C++ developer</h3>
-
+- 🔭 I’m currently working on [C++ Backend based Calculator](https://github.com/isri12/calculator_web_app_Cpp_Backend_based)
+- 🌱 I’m currently brushing up on Data Structures and Algorithm learning 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
