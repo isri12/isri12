@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋, I'm isri12</h1>
-<h3 align="center">A passionate C++ developer </h3>
+<h3 align="center">Junior/Mid C++ developer </h3>
 <h3> - 🔭 I’m currently working on [C++ Backend based Calculator](https://github.com/isri12/calculator_web_app_Cpp_Backend_based)</h3>
 <h3> - 🌱 I’m currently brushing up on Data Structures and Algorithm learning </h3>
 <!-- <h3 align="left">Connect with me:</h3> -->
