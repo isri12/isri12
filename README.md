@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isri12&show_icons=true&locale=en&layout=compact" alt="isri12" /></p>  -->
 <!-- <p style="background-color: black;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isri12&show_icons=true&locale=en&layout=compact" alt="isri12" width="400" height="300" /></p>   -->
 
-<p style="background-color: black;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isri12&show_icons=true&locale=en&layout=card" alt="isri12" width="600" height="300" /></p>
+<p style="background-color: black;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isri12&show_icons=true&locale=en&layout=compact" alt="isri12" width="600" height="300" /></p>
 
 
