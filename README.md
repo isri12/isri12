@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there , I'm Israel</h1>
 <h3 align="center">Junior/Mid C++ developer </h3>
-<h3> - 🔭  Projext 1 [C++ Backend based Calculator](https://github.com/isri12/calculator_web_app_Cpp_Backend_based)</h3>
-<h3> - 🌱  Projext 2 [website online marketplace for buying and selling pre-owned items.](http://somaletera.com/)</h3>
+<h3> [Study Note] (https://github.com/isri12/notesrepo/tree/main) </h3> 
+<h3> [- 🔭  Projext 1 C++ Backend based Calculator](https://github.com/isri12/calculator_web_app_Cpp_Backend_based)</h3>
+<h3> [- 🌱  Projext 2 website online marketplace for buying and selling pre-owned items.](http://somaletera.com/)</h3>
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
