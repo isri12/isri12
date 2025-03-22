@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--<h1 align="center">Hi there , I'm Israel</h1>
+<h1 align="center">Hi there , I'm Israel</h1>
 <h3 align="center">Mid developer </h3>
 <h3> [Study Note] (https://github.com/isri12/notesrepo/tree/main) </h3> 
 <!-- <h3> [- 🔭  Projext 1 C++ Backend based Calculator](https://github.com/isri12/calculator_web_app_Cpp_Backend_based)</h3> -->
