@@ -12,16 +12,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1 align="center">Hi there , I'm Israel</h1>
+<!--<h1 align="center">Hi there , I'm Israel</h1>
 <h3 align="center">Mid developer </h3>
 <h3> [Study Note] (https://github.com/isri12/notesrepo/tree/main) </h3> 
 <!-- <h3> [- 🔭  Projext 1 C++ Backend based Calculator](https://github.com/isri12/calculator_web_app_Cpp_Backend_based)</h3> -->
-<h3> [- 🚀  Projext 1 website online marketplace for buying and selling pre-owned items.](http://somaletera.com/)</h3>
-<h3> [- 🔭  Projext 2 home lab system Kubernetes cluster (K3s) running on a repurposed laptop and raspberry pi's](https://github.com/isri12/calculator_web_app_Cpp_Backend_based)</h3>
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!-- <h3> [- 🚀  Projext 1 website online marketplace for buying and selling pre-owned items.](http://somaletera.com/)</h3>
+<!-- <h3> [- 🔭  Projext 2 home lab system Kubernetes cluster (K3s) running on a repurposed laptop and raspberry pi's](https://github.com/isri12/calculator_web_app_Cpp_Backend_based)</h3> -->
+<!-- <h3 align="left">Connect with me:</h3> -->
+<!-- <p align="left">
+</p> -->
+
+🚀 Projects
+<h3>
+<a href="http://somaletera.com/">🚀 Project 1 - Online marketplace for buying and selling pre-owned items</a>
+</h3>
+- Features include user authentication, item listings, and secure transactions
+- Technologies: [Add the technologies you used here]
+<h3>
+<a href="https://github.com/isri12/calculator_web_app_Cpp_Backend_based">🔭 Project 2 - Home lab system Kubernetes cluster (K3s) running on a repurposed laptop and raspberry pi's</a>
+</h3>
+- Infrastructure includes monitoring with Prometheus and Grafana
+- Media server capabilities with Plex/Jellyfin
+- Integration with Raspberry Pi devices (Pi-hole, Home Assistant)
+- Technologies: Kubernetes, Docker, Linux, Prometheus, Grafana
 
 
 <h3 align="left">Main Languages and Tools used:</h3>
