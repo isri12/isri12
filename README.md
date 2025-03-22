@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Features include user authentication, item listings, and secure transactions
 - Technologies: 
 <h3>
-<a href="https://github.com/isri12/calculator_web_app_Cpp_Backend_based">🔭 Project 2 - Home lab system Kubernetes cluster (K3s) running on a repurposed laptop and raspberry pi's</a>
+<a href="https://github.com/isri12/Kubernetes-_based_Home-_Lab">🔭 Project 2 - Home lab system Kubernetes cluster (K3s) running on a repurposed laptop and raspberry pi's</a>
 </h3>
 - Infrastructure includes monitoring with Prometheus and Grafana
 - Media server capabilities with Plex/Jellyfin
