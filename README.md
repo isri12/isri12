@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="http://somaletera.com/">🚀 Project 1 - Online marketplace for buying and selling pre-owned items</a>
 </h3>
 - Features include user authentication, item listings, and secure transactions
-- Technologies: [Add the technologies you used here]
+- Technologies: 
 <h3>
 <a href="https://github.com/isri12/calculator_web_app_Cpp_Backend_based">🔭 Project 2 - Home lab system Kubernetes cluster (K3s) running on a repurposed laptop and raspberry pi's</a>
 </h3>
