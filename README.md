@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!-- <p align="left">
 </p> -->
 
-🚀 Projects
+<h1 align="center" 🚀 Projects </h1>
 <h3>
 <a href="http://somaletera.com/">🚀 Project 1 - Online marketplace for buying and selling pre-owned items</a>
 </h3>
