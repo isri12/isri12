@@ -39,7 +39,7 @@ Personal Kubernetes (K3s) cluster built on Raspberry Pi devices and a repurposed
 
 ---
 
-#### 🤖 [Project 3 – AI Study & Experiments](https://github.com/isri12/AI-Study](https://github.com/isri12/notesrepo/tree/main/AI_Notes)
+#### 🤖 [Project 3 – AI Study & Experiments](https://github.com/isri12/notesrepo/tree/main/AI_Notes)
 Learning and experimenting with AI fundamentals, ML models, and neural networks.  
 **🧩 Topics Covered:** Supervised learning, NLP, neural networks, and generative AI tools.  
 
