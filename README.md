@@ -27,7 +27,7 @@ A modern platform for buying and selling pre-owned items securely.
 
 ---
 
-#### 🖥️ [Project 2 – Kubernetes-Based Home Lab](https://github.com/isri12/Kubernetes-_based_Home-_Lab)
+#### 🖥️ [Project 2 – Raspberry cluster Kubernetes based Home Lab](https://github.com/isri12/homelab-pi-cluster)
 Personal Kubernetes (K3s) cluster built on Raspberry Pi devices and a repurposed laptop.  
 **💡 Capabilities:**  
 - Plex/Jellyfin media server  
