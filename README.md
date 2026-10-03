@@ -1,7 +1,7 @@
 <!-- Profile README for isri12 -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Israel</span></h1>
-<h3 align="center">☁️ Cloud & Kubernetes Platform Engineer | AI & Systems Enthusiast</h3>
+<h1 align="center">Hi, I'm <span style="color:#4FC3F7;">Israel</span></h1>
+<h3 align="center">Cloud & Kubernetes Platform Engineer </h3>
 
 <p align="center">
   <a href="https://github.com/isri12">
