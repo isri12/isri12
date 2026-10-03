@@ -1,77 +1,75 @@
 <!-- Profile README for isri12 -->
 
-<h1 align="center">👋 Hi there, I'm <span style="color:#4FC3F7;">Israel</span></h1>
-<h3 align="center">💡 AI & App Developer | Cloud & Kubernetes Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Israel</span></h1>
+<h3 align="center">☁️ Cloud & Kubernetes Platform Engineer | AI & Systems Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/isri12?tab=repositories">
-    <img src="https://img.shields.io/badge/Code_with-Passion-blue?style=for-the-badge&logo=github" />
+  <a href="https://github.com/isri12">
+    <img src="https://img.shields.io/badge/Code_with-Passion-blue?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://equbnet.com/">
-    <img src="https://img.shields.io/badge/Visit-My%20Website-success?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Visit-EqubNet-success?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
+</p>
+
+<p align="center">
+  <i>“Building resilient infrastructure and smart systems — from edge clusters to cloud platforms.”</i>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🌐 [Project 1 – EqubNet: Online Marketplace](https://equbnet.com/)
-A modern platform for buying and selling pre-owned items securely.  
-**✨ Features:**  
-- User authentication & profiles  
-- Item listings & image uploads  
-- Secure transactions and messaging  
-
-**🧠 Technologies:** Django, PostgreSQL, Docker, JavaScript, HTML/CSS
+#### 🖥️ [Raspberry Pi Kubernetes Home Lab](https://github.com/isri12/homelab-pi-cluster)
+A high-availability personal Kubernetes (K3s) cluster running across single-board computers and repurposed node hardware.
+* **Key Workloads:** Media streaming (Plex/Jellyfin), Home Assistant automation, network-wide ad blocking via Pi-hole.
+* **Observability:** Full metric collection and dash-boarding using Prometheus and Grafana.
+* **Stack:** `Kubernetes (K3s)` · `Docker` · `Linux` · `Prometheus` · `Grafana` · `Ansible`
 
 ---
 
-#### 🖥️ [Project 2 – Raspberry cluster Kubernetes based Home Lab](https://github.com/isri12/homelab-pi-cluster)
-Personal Kubernetes (K3s) cluster built on Raspberry Pi devices and a repurposed laptop.  
-**💡 Capabilities:**  
-- Plex/Jellyfin media server  
-- Home Assistant automation  
-- Network monitoring with Prometheus & Grafana  
-- Pi-hole for DNS filtering  
-
-**🧰 Stack:** Kubernetes · Docker · Linux · Prometheus · Grafana
+#### 🌐 [EqubNet – Online Marketplace](https://equbnet.com/)
+A scalable web platform designed for buying and selling pre-owned items securely.
+* **Features:** Robust authentication, containerized API services, dynamic image uploads, real-time messaging, and transactional data persistence.
+* **Stack:** `Django` · `PostgreSQL` · `Docker` · `JavaScript` · `Nginx`
 
 ---
 
-#### 🤖 [Project 3 – AI Study & Experiments](https://github.com/isri12/notesrepo/tree/main/AI_Notes)
-Learning and experimenting with AI fundamentals, ML models, and neural networks.  
-**🧩 Topics Covered:** Supervised learning, NLP, neural networks, and generative AI tools.  
+#### 🤖 [AI & Machine Learning Lab](https://github.com/isri12/notesrepo/tree/main/AI_Notes)
+Hands-on explorations, notes, and implementations of core machine learning concepts and neural networks.
+* **Focus Areas:** Supervised/unsupervised learning models, NLP pipelines, RAG implementations, and local LLM fine-tuning.
+* **Stack:** `Python` · `PyTorch` · `Pandas` · `OpenCV`
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Expertise
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,go,linux,docker,kubernetes,git,raspberrypi,mysql,postgresql,mongodb,html,css,js,nodejs,opencv,django,pandas,matlab&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,bash,linux,docker,kubernetes,ansible,terraform,git,raspberrypi,mysql,postgresql,mongodb,js,nodejs,django,pytorch,pandas&perline=10" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📚 Current Focus
-- 🧠 Advancing AI + ML skills (PyTorch, TensorFlow)
-- ☁️ Building scalable cloud apps using Kubernetes & Docker
-- 🛠️ Experimenting with Home Lab automation & monitoring
+### 🎯 Current Focus
+- ☁️ **Cloud Infrastructure & Orchestration:** Deepening advanced Kubernetes patterns, custom operators, and GitOps workflows.
+- 🧠 **AI Infrastructure:** Scaling local LLM deployment pipelines and integrating PyTorch/TensorFlow models with backend platforms.
+- 🛠️️ **Edge & Automation:** Expanding home lab automation using Ansible, Terraform, and single-board edge networks.
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect & Collaborate
+
 <p align="center">
-  <a href="https://github.com/isri12"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:isrik@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/isri12">
+    <img src="https://img.shields.io/badge/GitHub-isri12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:isrik@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isri12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="400"/>
-</p>
-
-<p align="center">
-  <i>“Building meaningful tech — from AI brains to Raspberry Pi clusters.”</i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isri12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="420"/>
 </p>
